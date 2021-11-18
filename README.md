@@ -1,4 +1,4 @@
-# PlantNet_MobileNetV2
+# PlantNet MobileNetV2, ResNet50, InceptionV3
 Google Colab python notebook with training of a MobileNetV2, Inception, and ResNet50 neural network on PlantNet Dataset. The goal of the network is to classify 1081 different plant species. MobilenNet takes in 224 x 224 x 3 sized images and outputs classification label. 
 
 
